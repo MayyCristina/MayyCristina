@@ -13,3 +13,4 @@
   </div>
   
   
+  ![snake gif](https://github.com/MayyCristina/MayyCristina/blob/output/github-contribution-grid-snake.svg)
