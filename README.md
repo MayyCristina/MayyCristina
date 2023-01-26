@@ -15,5 +15,7 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   </div>
   
+  ![snake gif](https://github.com/MayyCristina/MayyCristina/blob/output/github-contribution-grid-snake.svg)
+  
   
   
